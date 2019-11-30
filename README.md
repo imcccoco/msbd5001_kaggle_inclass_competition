@@ -11,8 +11,8 @@ could generate the submission file "submit_1130_4_1.csv"
 Python 3.5
 
 ### Required packages
-pandas
-numpy
+pandas  
+numpy  
 sklearn
 
 ### How to run it to reproduce my result
